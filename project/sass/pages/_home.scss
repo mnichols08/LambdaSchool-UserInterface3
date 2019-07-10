@@ -1,4 +1,6 @@
 .header__container {
+    @include transition
+
     & h1.title {
     margin-left:-1em;
 } & img{

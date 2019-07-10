@@ -105,6 +105,7 @@
         flex-flow: row row-reverse;
     }
     @media only screen and (max-width: 999px) {
+        @include transition
         flex-direction: column;
         &-w{
            &-75 {
