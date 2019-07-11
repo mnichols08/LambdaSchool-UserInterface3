@@ -19,10 +19,11 @@
 
 ## Practice
 * [Practicing class selectors](https://codepen.io/mnichols08/full/xoQRaZ)
-* [Guided Project](https://codepen.io/mnichols08/full/bPzaEy)
 * [Guided Project](https://codepen.io/BritHemming/full/GbzvxL)
 
 ## Challenges
+* [Flexbox Challenge](https://codepen.io/mnichols08/full/bPzaEy)
+* [Flexbox Challenge 2](https://codepen.io/mnichols08/full/pXGaed)
 * [Box Model Tutorial](https://codepen.io/mnichols08/full/jjXpLR)
 * [Display Tutorial](https://codepen.io/mnichols08/full/BgvPwO)
 * [CSS Reset](https://codepen.io/mnichols08/full/WBJBZY)
